@@ -1,0 +1,1 @@
+*/10 * * * * python /workspaces/mustt/Desktop/MyDesktop/Learning/MLDevOpsND/course4/p4/fullprocess.py
